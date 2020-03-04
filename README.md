@@ -1,6 +1,4 @@
-# DemoDisplay
-
-## 基于虚拟视点的实时半透明材质渲染
+# 基于虚拟视点的实时半透明材质渲染
 
 效果截图：
 
@@ -26,25 +24,25 @@
 </table>
 
 
-## 峨眉山实时渲染
+# 峨眉山实时渲染
 
 
 
 
 
-## VR照片墙
+# VR照片墙
 
 
 
 
 
-## HIVE-实时渲染引擎
+# HIVE-实时渲染引擎
 
 
 
 
 
-## Shadertoy Shaders
+# Shadertoy Shaders
 
 shadertoy主页： https://www.shadertoy.com/user/ikuto 
 
