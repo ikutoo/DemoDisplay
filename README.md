@@ -29,9 +29,16 @@
 
 
 # 峨眉山实时渲染
+<center><img src="./EMSRendering/01.bmp">physically based rendering + image based lighting</center>
 
+<table>
+    <tr>
+      <td width="50%"><center><img src="./EMSRendering/02.bmp"  >Cascaded Shadow Map (far)</center></td>
+      <td width="50%"><center><img src="./EMSRendering/03.bmp""  >Cascaded Shadow Map (near)</center></td>
+    </tr>
+</table>
 
-
+<center><img src="./EMSRendering/05.png">procedural sky + atmoshpere scattering</center>
 
 
 # VR照片墙
@@ -54,7 +61,7 @@
 
 # Shadertoy Shaders
 
-shadertoy homepage： https://www.shadertoy.com/user/ikuto 
+我的shadertoy主页： https://www.shadertoy.com/user/ikuto 
 
 All effects below are generated using procedural modeling, shading and animation.
 <table algin = "center">
