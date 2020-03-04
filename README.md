@@ -52,7 +52,7 @@
 
 shadertoy主页： https://www.shadertoy.com/user/ikuto 
 
-<table>
+<table algin = "center">
     <tr>
       <td ><center><img src="./Shadertoy/3lK3RR.jpg"></center></td>
       <td ><center><img src="./Shadertoy/3lKGRW.jpg" ></center></td>
