@@ -1,6 +1,6 @@
 # DemoDisplay
 
-### 基于虚拟视点的实时半透明材质渲染
+## 基于虚拟视点的实时半透明材质渲染
 
 效果截图：
 
@@ -12,35 +12,39 @@
 
 <table>
     <tr>
-      <td ><center><img src="./TranslucencyRendering/1583239765855.png"  >translucent shadow map</center></td>
-        <td ><center><img src="./TranslucencyRendering/1583241450968.png"  >our method</center></td>
+      <td ><center><img src="./TranslucencyRendering/20200304095659.png"  >Transmission Off</center></td>
+        <td ><center><img src="./TranslucencyRendering/20200304095716.png"  >Transmission On</center></td>
     </tr>
     <tr>
-        <td><center><img src="./TranslucencyRendering/1583243212502.png"  >translucent shadow map</center></td>
-        <td ><center><img src="./TranslucencyRendering/1583243222195.png"  >our method</td>
+      <td ><center><img src="./TranslucencyRendering/1583239765855.png"  >TSM</center></td>
+        <td ><center><img src="./TranslucencyRendering/1583241450968.png"  >Our</center></td>
+    </tr>
+    <tr>
+        <td><center><img src="./TranslucencyRendering/1583243212502.png"  >TSM</center></td>
+        <td ><center><img src="./TranslucencyRendering/1583243222195.png"  >Our</td>
     </tr>
 </table>
 
 
-### 峨眉山实时渲染
+## 峨眉山实时渲染
 
 
 
 
 
-### VR照片墙
+## VR照片墙
 
 
 
 
 
-### HIVE-实时渲染引擎
+## HIVE-实时渲染引擎
 
 
 
 
 
-### Shadertoy Shaders
+## Shadertoy Shaders
 
 shadertoy主页： https://www.shadertoy.com/user/ikuto 
 
