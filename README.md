@@ -1,7 +1,5 @@
 # DemoDisplay
 
-[toc]
-
 ### 基于虚拟视点的实时半透明材质渲染
 
 效果截图：
@@ -12,9 +10,9 @@
 
 效果对比：
 
-<img src="./TranslucencyRendering/1583239765855.png" width = "49.8%" div align=left /><img src="./TranslucencyRendering/1583241450968.png" width = "49.8%" div align=right />
+<img src="./TranslucencyRendering/1583239765855.png" width = "49.8%" div align=left /><img src="./TranslucencyRendering/1583241450968.png" width = "49.8%" div align=left />
 
-<img src="./TranslucencyRendering/1583243212502.png" width = "49.8%" div align=left /><img src="./TranslucencyRendering/1583243222195.png" width = "49.8%" div align=right />
+<img src="./TranslucencyRendering/1583243212502.png" width = "49.8%" div align=left /><img src="./TranslucencyRendering/1583243222195.png" width = "49.8%" div align=left />
 <center><font size=4>translucent shadow map &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;	 our method</font></center>
 效率对比：
 
