@@ -10,8 +10,8 @@
 
 <table>
     <tr>
-      <td ><center><img src="./TranslucencyRendering/20200304095659.png"  >Transmission Off</center></td>
-        <td ><center><img src="./TranslucencyRendering/20200304095716.png"  >Transmission On</center></td>
+      <td ><center><img src="./TranslucencyRendering/20200304095659.png"  ><center>Transmission Off</center></center></td>
+        <td ><center><img src="./TranslucencyRendering/20200304095716.png"  ><center>Transmission On</center></center></td>
     </tr>
     <tr>
       <td ><center><img src="./TranslucencyRendering/1583239765855.png"  >TSM</center></td>
