@@ -10,7 +10,9 @@
 
 效果对比：
 
-<img src="./TranslucencyRendering/1583239765855.png" width = "49.8%" div align=left /><img src="./TranslucencyRendering/1583241450968.png" width = "49.8%" div align=left />
+<center class="half">
+    <img src="./TranslucencyRendering/1583239765855.png" width="50%"/><img src="./TranslucencyRendering/1583241450968.png" width="50%"/>
+</center>
 
 <img src="./TranslucencyRendering/1583243212502.png" width = "49.8%" div align=left /><img src="./TranslucencyRendering/1583243222195.png" width = "49.8%" div align=left />
 <center><font size=4>translucent shadow map &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;	 our method</font></center>
@@ -42,7 +44,8 @@
 
 shadertoy主页： https://www.shadertoy.com/user/ikuto 
 
-<img src="./Shadertoy/3lK3RR.jpg" width = "49.8%"  div align=left /><img src="./Shadertoy/3lKGRW.jpg" width = "49.8%"  div align=right />
+<img src="./Shadertoy/3lK3RR.jpg" width = "49.8%"  div align=left />
+<img src="./Shadertoy/3lKGRW.jpg" width = "49.8%"  div align=right />
 
 <img src="./Shadertoy/Wl2XzK.jpg" width = "49.8%"  div align=left /><img src="./Shadertoy/MlycRy.jpg" width = "49.8%"  div align=right />
 
