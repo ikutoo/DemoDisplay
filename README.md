@@ -10,16 +10,16 @@
 
 效果对比：
 
-<center class="half">
-    <img src="./TranslucencyRendering/1583239765855.png" width="50%"/><img src="./TranslucencyRendering/1583241450968.png" width="50%"/>
-</center>
-
-<img src="./TranslucencyRendering/1583243212502.png" width = "49.8%" div align=left /><img src="./TranslucencyRendering/1583243222195.png" width = "49.8%" div align=left />
-<center><font size=4>translucent shadow map &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;	 our method</font></center>
-效率对比：
-
-
-
+<table>
+    <tr>
+      <td ><center><img src="./TranslucencyRendering/1583239765855.png"  >translucent shadow map</center></td>
+        <td ><center><img src="./TranslucencyRendering/1583241450968.png"  >our method</center></td>
+    </tr>
+    <tr>
+        <td><center><img src="./TranslucencyRendering/1583243212502.png"  >translucent shadow map</center></td>
+        <td ><center><img src="./TranslucencyRendering/1583243222195.png"  >our method</td>
+    </tr>
+</table>
 
 
 ### 峨眉山实时渲染
@@ -44,14 +44,27 @@
 
 shadertoy主页： https://www.shadertoy.com/user/ikuto 
 
-<img src="./Shadertoy/3lK3RR.jpg" width = "49.8%"  div align=left />
-<img src="./Shadertoy/3lKGRW.jpg" width = "49.8%"  div align=right />
+<table>
+    <tr>
+      <td ><center><img src="./Shadertoy/3lK3RR.jpg" width="" ></center></td>
+        <td ><center><img src="./Shadertoy/3lKGRW.jpg"  ></center></td>
+    </tr>
+    <tr>
+      <td ><center><img src="./Shadertoy/Wl2XzK.jpg"  ></center></td>
+        <td ><center><img src="./Shadertoy/MlycRy.jpg"  ></center></td>
+    </tr>
+    <tr>
+      <td ><center><img src="./Shadertoy/wljSDh.jpg"  ></center></td>
+        <td ><center><img src="./Shadertoy/XlKyRw.jpg"  ></center></td>
+    </tr>
+    <tr>
+      <td ><center><img src="./Shadertoy/ttSSW3.jpg"  ></center></td>
+        <td ><center><img src="./Shadertoy/wtf3DB.jpg"  ></center></td>
+    </tr>
+    <tr>
+      <td ><center><img src="./Shadertoy/4tycWy.jpg"  ></center></td>
+        <td ><center><img src="./Shadertoy/tlSGRz.jpg"  ></center></td>
+    </tr>
+</table>
 
-<img src="./Shadertoy/Wl2XzK.jpg" width = "49.8%"  div align=left /><img src="./Shadertoy/MlycRy.jpg" width = "49.8%"  div align=right />
-
-<img src="./Shadertoy/wljSDh.jpg" width = "49.8%" div align=left /><img src="./Shadertoy/XlKyRw.jpg" width = "49.8%"  div align=right />
-
-<img src="./Shadertoy/ttSSW3.jpg" width = "49.8%" div align=left /><img src="./Shadertoy/wtf3DB.jpg" width = "49.8%"  div align=right />
-
-<img src="./Shadertoy/4tycWy.jpg" width = "49.8%" div align=left /><img src="./Shadertoy/tlSGRz.jpg" width = "49.8%" div align=right />
 <center><font size=4>Procedural modeling, shading and animation</font></center>
