@@ -37,8 +37,6 @@
 
 
 
-
-
 ## 峨眉山实时渲染
 **效果截图：**
 <table>
@@ -73,20 +71,6 @@
       <td width="50%"><center><img src="./EMSRendering/12.bmp""  >SSAO</center></td>
     </tr>
 </table>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -128,6 +112,4 @@ All effects below are generated using procedural modeling, shading and animation
       <td width="50%"><center><img src="./Shadertoy/tlSGRz.jpg"  >physically based shading</center></td>
     </tr>
 </table>
-
-## Mini Games
 
