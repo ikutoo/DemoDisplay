@@ -42,20 +42,22 @@
 <p align = "center">
   <img src="./EMSRendering/01.bmp">
   <img src="./EMSRendering/04.bmp" width="50%"><img src="./EMSRendering/10.png" width="50%">
-  <b>PBR + IBL + Bloom + HDR</b>
+  PBR + IBL + Bloom + HDR
 </p>
 
 <p align = "center">
   <img src="./EMSRendering/05.png">
-  <b>Procedural Sky + Atmoshpere Scattering</b>
+  Procedural Sky + Atmoshpere Scattering
 </p>
 
+<p align = "center">
 <table>
     <tr>
       <td width="50%"><center><img src="./EMSRendering/02.bmp"  >Cascaded Shadow Map (far)</center></td>
       <td width="50%"><center><img src="./EMSRendering/03.bmp""  >Cascaded Shadow Map (near)</center></td>
     </tr>
-</table>
+</table
+</p>
 
 <table>
     <tr>
