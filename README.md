@@ -53,8 +53,8 @@
 <p align = "center">
 <table>
   <tr>
-    <td width="50%"><center><img src="./EMSRendering/02.bmp">Cascaded Shadow Map (far)</center></td>
-    <td width="50%"><center><img src="./EMSRendering/03.bmp">Cascaded Shadow Map (near)</center></td>
+    <td width="50%"><img src="./EMSRendering/02.bmp"><center>Cascaded Shadow Map (far)</center></td>
+    <td width="50%"><img src="./EMSRendering/03.bmp"><center>Cascaded Shadow Map (near)</center></td>
   </tr>
 </table>
 </p>
