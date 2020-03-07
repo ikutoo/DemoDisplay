@@ -39,14 +39,11 @@
 
 **效果截图：**
 
-<table>
-    <tr>
-      <td width="50%"><center><img src="./EMSRendering/04.bmp"  ></center></td>
-      <td width="50%"><center><img src="./EMSRendering/10.png""  ></center></td>
-    </tr>
-</table>
-
-<center><img src="./EMSRendering/01.bmp">PBR + IBL + Bloom + HDR</center>
+<p align = "center">
+  <img src="./EMSRendering/01.bmp">
+  <img src="./EMSRendering/04.bmp" width="50%"><img src="./EMSRendering/10.png" width="50%">
+  <b>PBR + IBL + Bloom + HDR</b>
+</p>
 
 <p align = "center">
   <img src="./EMSRendering/05.png">
