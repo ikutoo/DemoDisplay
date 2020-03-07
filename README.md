@@ -18,22 +18,22 @@
 
 
 **效果对比：**
-
+<p algin = "center">
 <table>
     <tr>
-      <td width="50%"><center><img src="./TranslucencyRendering/20200304213522.png"  ><center>Transmission Off</center></center></td>
-      <td width="50%"><center><img src="./TranslucencyRendering/20200304213546.png"  ><center>Transmission On</center></center></td>
+      <td width="50%" algin = "center"><center><img src="./TranslucencyRendering/20200304213522.png"  ><center>Transmission Off</center></center></td>
+      <td width="50%" algin = "center"><center><img src="./TranslucencyRendering/20200304213546.png"  ><center>Transmission On</center></center></td>
     </tr>
     <tr>
-      <td width="50%"><center><img src="./TranslucencyRendering/1583239765855.png"  >Translucent Shadow Map</center></td>
-      <td width="50%"><center><img src="./TranslucencyRendering/1583241450968.png"  >Our Method</center></td>
+      <td width="50%" algin = "center"><center><img src="./TranslucencyRendering/1583239765855.png"  >Translucent Shadow Map</center></td>
+      <td width="50%" algin = "center"><center><img src="./TranslucencyRendering/1583241450968.png"  >Our Method</center></td>
     </tr>
     <tr>
-      <td width="50%"><center><img src="./TranslucencyRendering/1583243212502.png"  >Translucent Shadow Map</center></td>
-      <td width="50%"><center><img src="./TranslucencyRendering/1583243222195.png"  >Our Method</td>
+      <td width="50%" algin = "center"><center><img src="./TranslucencyRendering/1583243212502.png"  >Translucent Shadow Map</center></td>
+      <td width="50%" algin = "center"><center><img src="./TranslucencyRendering/1583243222195.png"  >Our Method</td>
     </tr>
 </table>
-
+</p>
 
 ## 峨眉山实时渲染
 
@@ -53,30 +53,33 @@
 <p align = "center">
 <table>
   <tr>
-    <td width="50%" align = "center"><img src="./EMSRendering/02.bmp"><center>Cascaded Shadow Map (far)</center></td>
-    <td width="50%" align = "center"><img src="./EMSRendering/03.bmp"><center>Cascaded Shadow Map (near)</center></td>
+    <td width="50%" align = "center"><img src="./EMSRendering/02.bmp">Cascaded Shadow Map (far)</td>
+    <td width="50%" align = "center"><img src="./EMSRendering/03.bmp">Cascaded Shadow Map (near)</td>
   </tr>
 </table>
 </p>
 
+<p align = "center">
 <table>
     <tr>
-      <td width="50%"><center><img src="./EMSRendering/08.png"></center></td>
-      <td width="50%"><center><img src="./EMSRendering/09.png"></center></td>
+      <td width="50%" align = "center"><img src="./EMSRendering/08.png"></td>
+      <td width="50%" align = "center"><img src="./EMSRendering/09.png"></td>
     </tr>
     <tr>
-      <td width="50%"><center><img src="./EMSRendering/06.png"  >No AA</center></td>
-      <td width="50%"><center><img src="./EMSRendering/07.png""  >TAA</center></td>
+      <td width="50%" align = "center"><img src="./EMSRendering/06.png">No AA</td>
+      <td width="50%" align = "center"><img src="./EMSRendering/07.png">TAA</td>
     </tr>
 </table>
+</p>
 
+<p align = "center">
 <table>
     <tr>
-      <td width="50%"><center><img src="./EMSRendering/11.bmp"  >No AO</center></td>
-      <td width="50%"><center><img src="./EMSRendering/12.bmp""  >SSAO</center></td>
+      <td width="50%" align = "center"><img src="./EMSRendering/11.bmp">No AO</td>
+      <td width="50%" align = "center"><img src="./EMSRendering/12.bmp">SSAO</td>
     </tr>
 </table>
-
+</p>
 
 
 ## VR照片墙
@@ -96,25 +99,26 @@
 我的shadertoy主页： https://www.shadertoy.com/user/ikuto 
 
 All effects below are generated using procedural modeling, shading and animation.
+<p align = "center">
 <table algin = "center">
     <tr>
-      <td width="50%"><center><img src="./Shadertoy/3lK3RR.jpg">transparency+translucency</center></td>
-      <td width="50%"><center><img src="./Shadertoy/3lKGRW.jpg" >translucency</center></td>
+      <td width="50%" algin = "center"><center><img src="./Shadertoy/3lK3RR.jpg">transparency+translucency</center></td>
+      <td width="50%" algin = "center"><center><img src="./Shadertoy/3lKGRW.jpg" >translucency</center></td>
     </tr>
     <tr>
-      <td width="50%"><center><img src="./Shadertoy/Wl2XzK.jpg"  >eye rendering + subsurface scattering</center></td>
-      <td width="50%"><center><img src="./Shadertoy/MlycRy.jpg"  >voronoi noise</center></td>
+      <td width="50%" algin = "center"><center><img src="./Shadertoy/Wl2XzK.jpg"  >eye rendering + subsurface scattering</center></td>
+      <td width="50%" algin = "center"><center><img src="./Shadertoy/MlycRy.jpg"  >voronoi noise</center></td>
     <tr>
-      <td width="50%"><center><img src="./Shadertoy/wljSDh.jpg"  >toon shading</center></td>
-      <td width="50%"><center><img src="./Shadertoy/XlKyRw.jpg"  >clouds using 3d perlin noise</center></td>
+      <td width="50%" algin = "center"><center><img src="./Shadertoy/wljSDh.jpg"  >toon shading</center></td>
+      <td width="50%" algin = "center"><center><img src="./Shadertoy/XlKyRw.jpg"  >clouds using 3d perlin noise</center></td>
     </tr>
     <tr>
-      <td width="50%"><center><img src="./Shadertoy/ttSSW3.jpg"  >volumetric + translucent</center></td>
-      <td width="50%"><center><img src="./Shadertoy/wtf3DB.jpg"  >fractal tree</center></td>
+      <td width="50%" algin = "center"><center><img src="./Shadertoy/ttSSW3.jpg"  >volumetric + translucent</center></td>
+      <td width="50%" algin = "center"><center><img src="./Shadertoy/wtf3DB.jpg"  >fractal tree</center></td>
     </tr>
     <tr>
-      <td width="50%"><center><img src="./Shadertoy/4tycWy.jpg"  >simple water</center></td>
-      <td width="50%"><center><img src="./Shadertoy/tlSGRz.jpg"  >physically based shading</center></td>
+      <td width="50%" algin = "center"><center><img src="./Shadertoy/4tycWy.jpg"  >simple water</center></td>
+      <td width="50%" algin = "center"><center><img src="./Shadertoy/tlSGRz.jpg"  >physically based shading</center></td>
     </tr>
 </table>
-
+</p>
