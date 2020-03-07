@@ -35,18 +35,24 @@
 </table>
 
 
-
-
 ## 峨眉山实时渲染
+
 **效果截图：**
+
 <table>
     <tr>
       <td width="50%"><center><img src="./EMSRendering/04.bmp"  ></center></td>
       <td width="50%"><center><img src="./EMSRendering/10.png""  ></center></td>
     </tr>
 </table>
+
 <center><img src="./EMSRendering/01.bmp">PBR + IBL + Bloom + HDR</center>
-<center><img src="./EMSRendering/05.png">Procedural Sky + Atmoshpere Scattering</center>
+
+<p align = "center">
+  <img src="./EMSRendering/05.png">
+  <b>Procedural Sky + Atmoshpere Scattering</b>
+</p>
+
 <table>
     <tr>
       <td width="50%"><center><img src="./EMSRendering/02.bmp"  >Cascaded Shadow Map (far)</center></td>
