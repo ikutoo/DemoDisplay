@@ -52,17 +52,17 @@
 
 <p align = "center">
 <table>
-    <tr>
-      <td width="50%"><center><img src="./EMSRendering/02.bmp"  >Cascaded Shadow Map (far)</center></td>
-      <td width="50%"><center><img src="./EMSRendering/03.bmp""  >Cascaded Shadow Map (near)</center></td>
-    </tr>
-</table
+  <tr>
+    <td width="50%"><center><img src="./EMSRendering/02.bmp">Cascaded Shadow Map (far)</center></td>
+    <td width="50%"><center><img src="./EMSRendering/03.bmp">Cascaded Shadow Map (near)</center></td>
+  </tr>
+</table>
 </p>
 
 <table>
     <tr>
-      <td width="50%"><center><img src="./EMSRendering/08.png"  ></center></td>
-      <td width="50%"><center><img src="./EMSRendering/09.png""  ></center></td>
+      <td width="50%"><center><img src="./EMSRendering/08.png"></center></td>
+      <td width="50%"><center><img src="./EMSRendering/09.png"></center></td>
     </tr>
     <tr>
       <td width="50%"><center><img src="./EMSRendering/06.png"  >No AA</center></td>
