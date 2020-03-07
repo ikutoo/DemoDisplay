@@ -18,19 +18,19 @@
 
 
 **效果对比：**
-<p algin = "center">
+<p align = "center">
 <table>
     <tr>
-      <td width="50%" algin = "center"><center><img src="./TranslucencyRendering/20200304213522.png"  ><center>Transmission Off</center></center></td>
-      <td width="50%" algin = "center"><center><img src="./TranslucencyRendering/20200304213546.png"  ><center>Transmission On</center></center></td>
+      <td width="50%" align = "center"><img src="./TranslucencyRendering/20200304213522.png"  >Transmission Off</td>
+      <td width="50%" align = "center"><img src="./TranslucencyRendering/20200304213546.png"  >Transmission On</td>
     </tr>
     <tr>
-      <td width="50%" algin = "center"><center><img src="./TranslucencyRendering/1583239765855.png"  >Translucent Shadow Map</center></td>
-      <td width="50%" algin = "center"><center><img src="./TranslucencyRendering/1583241450968.png"  >Our Method</center></td>
+      <td width="50%" align = "center"><img src="./TranslucencyRendering/1583239765855.png"  >Translucent Shadow Map</td>
+      <td width="50%" align = "center"><img src="./TranslucencyRendering/1583241450968.png"  >Our Method</td>
     </tr>
     <tr>
-      <td width="50%" algin = "center"><center><img src="./TranslucencyRendering/1583243212502.png"  >Translucent Shadow Map</center></td>
-      <td width="50%" algin = "center"><center><img src="./TranslucencyRendering/1583243222195.png"  >Our Method</td>
+      <td width="50%" align = "center"><img src="./TranslucencyRendering/1583243212502.png"  >Translucent Shadow Map</td>
+      <td width="50%" align = "center"><img src="./TranslucencyRendering/1583243222195.png"  >Our Method</td>
     </tr>
 </table>
 </p>
@@ -100,25 +100,25 @@
 
 All effects below are generated using procedural modeling, shading and animation.
 <p align = "center">
-<table algin = "center">
+<table>
     <tr>
-      <td width="50%" algin = "center"><center><img src="./Shadertoy/3lK3RR.jpg">transparency+translucency</center></td>
-      <td width="50%" algin = "center"><center><img src="./Shadertoy/3lKGRW.jpg" >translucency</center></td>
+      <td width="50%" align = "center"><img src="./Shadertoy/3lK3RR.jpg">transparency+translucency</td>
+      <td width="50%" align = "center"><img src="./Shadertoy/3lKGRW.jpg" >translucency</td>
     </tr>
     <tr>
-      <td width="50%" algin = "center"><center><img src="./Shadertoy/Wl2XzK.jpg"  >eye rendering + subsurface scattering</center></td>
-      <td width="50%" algin = "center"><center><img src="./Shadertoy/MlycRy.jpg"  >voronoi noise</center></td>
+      <td width="50%" align = "center"><img src="./Shadertoy/Wl2XzK.jpg"  >eye rendering + subsurface scattering</td>
+      <td width="50%" align = "center"><img src="./Shadertoy/MlycRy.jpg"  >voronoi noise</td>
     <tr>
-      <td width="50%" algin = "center"><center><img src="./Shadertoy/wljSDh.jpg"  >toon shading</center></td>
-      <td width="50%" algin = "center"><center><img src="./Shadertoy/XlKyRw.jpg"  >clouds using 3d perlin noise</center></td>
+      <td width="50%" align = "center"><img src="./Shadertoy/wljSDh.jpg"  >toon shading</td>
+      <td width="50%" align = "center"><img src="./Shadertoy/XlKyRw.jpg"  >clouds using 3d perlin noise</td>
     </tr>
     <tr>
-      <td width="50%" algin = "center"><center><img src="./Shadertoy/ttSSW3.jpg"  >volumetric + translucent</center></td>
-      <td width="50%" algin = "center"><center><img src="./Shadertoy/wtf3DB.jpg"  >fractal tree</center></td>
+      <td width="50%" align = "center"><img src="./Shadertoy/ttSSW3.jpg"  >volumetric + translucent</td>
+      <td width="50%" align = "center"><img src="./Shadertoy/wtf3DB.jpg"  >fractal tree</td>
     </tr>
     <tr>
-      <td width="50%" algin = "center"><center><img src="./Shadertoy/4tycWy.jpg"  >simple water</center></td>
-      <td width="50%" algin = "center"><center><img src="./Shadertoy/tlSGRz.jpg"  >physically based shading</center></td>
+      <td width="50%" align = "center"><img src="./Shadertoy/4tycWy.jpg"  >simple water</td>
+      <td width="50%" align = "center"><img src="./Shadertoy/tlSGRz.jpg"  >physically based shading</td>
     </tr>
 </table>
 </p>
